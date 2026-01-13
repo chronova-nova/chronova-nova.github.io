@@ -1,19 +1,17 @@
-# TVer 見逃し対策ノート（公開用メモサイト）
+# TVer 見逃し対策ノート（静的サイト）
 
-このリポジトリは GitHub Pages で公開している静的サイトです。  
-目的は、TVer 等の番組を見逃さないための「運用」と「視聴環境」を最小構成で整理することです。
+GitHub Pages で公開している個人メモサイトです。  
+TVer 等の番組を見逃さないための「運用」と「視聴環境」を最小構成で整理します。
 
 ## 公開URL
 - https://karagaki.github.io/affiliate-site/
 
-## ページ構成
+## ページ
 - index.html（トップ）
 - profile.html（プロフィール）
 - privacy.html（プライバシーポリシー）
 - contact.html（お問い合わせ）
 - article1.html〜article3.html（記事）
 
-## 開発・更新方法（最小）
-1. ファイルを編集
-2. `git add . && git commit -m "update" && git push`
-
+## 更新
+- ファイル編集 → commit → push（master ブランチ）
